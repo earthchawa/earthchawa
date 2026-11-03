@@ -2,7 +2,7 @@
 
 Frontend developer, UX/UI designer and lecturer at the
 **Navaminda Kasatriyadhiraj Royal Air Force Academy (NKRAFA)**, Thailand.
-MS in Software Engineering from **DePaul University**, Chicago.
+BS in Computer Science from **NKRAFA** · MS in Software Engineering from **DePaul University**, Chicago.
 
 > Designing with intention. Refining complexity into pure simplicity.
 
